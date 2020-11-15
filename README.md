@@ -1,0 +1,1 @@
+A chat app built with Python using pika - Code from Pink Programming workshop
